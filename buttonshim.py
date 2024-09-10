@@ -13,7 +13,7 @@ except ImportError:
 
 ADDR = 0x3F
 
-__version__ = "0.0.2x"
+__version__ = "0.0.2"
 
 _bus = None
 
